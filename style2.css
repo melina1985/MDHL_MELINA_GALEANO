@@ -1,0 +1,104 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: relative;
+    display: block;
+    height: 250px;
+}
+
+#TituloDeLaPagina{
+    display: block;   
+    font-size: 2.5rem;
+    padding: 1rem;
+    text-align: start;
+    color: black ;
+    background-color: transparent;
+}
+
+.Logo{
+    position: absolute;
+    top: 20rem;
+    left: 3rem;
+}
+
+.subtitle{
+    position: relative;
+    background-color: black;
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+nav{
+    display: inline-block;
+    position: absolute;
+    top: 1.2rem;
+    right: 3rem;
+
+}
+
+.Active{
+    background-color: green;
+}
+
+nav a{
+    padding: 1rem;
+    margin-right: 0.3rem;
+    display: inline-block;
+    background-color: rgb(6, 101, 190);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    box-shadow: 0.2rem 0.2rem grey;
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    display: inline-block;
+    margin: 1rem;
+    position: absolute;
+    top: 18rem;
+    left: 10rem;
+}
+
+.Event {
+    padding: 1.5rem;
+}
+.Date{
+    font-style: italic;
+}
+.DescriptionEvent{
+    margin-left: 1.5rem;
+    font-style: normal;
+}
+
+.About{
+    display: inline-block;
+    padding: 4rem;
+    margin: 2rem;
+}
+.Mision{
+    margin: 1.5rem;
+    display: inline-block;
+}
+.Vision{
+    margin: 1.5rem;
+}
+.GeneralInformation{
+    margin: 1.5rem;
+}
+
+.EmailContact{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+h4{
+    font: 1em sans-serif;
+}
