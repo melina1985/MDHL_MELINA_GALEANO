@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+    margin-left: 1rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+#title{
+    text-align: center;
+    padding: 1rem 0rem 0rem 0rem;
+}
+
+.subtitle h3{
+    font-style: normal;
+    font-style: oblique;
+}
+
+.subtitle p{
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+table{
+    margin: 0 auto;
+    width: 50%;    
+}
+
+tr{
+    height: 1.5rem;
+}
+
+div{
+    margin: 1.7rem;
+}
+
+.PhoneAndEmail{
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
