@@ -7,7 +7,8 @@
 
 header{
     position: relative;
-    background-image:url(MELINA_GALEANO_T1_M1/assets/IMG/design1_image1.jpg);
+    background-image:url("../IMG/design1_image1.jpg");
+    MELINA_GALEANO_T1_M1\assets\IMG\design1_image1.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center ;
