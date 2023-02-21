@@ -1,0 +1,58 @@
+*{
+    font-family: sans-serif;
+    margin-left: 0.5rem;
+    padding: 0rem;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+
+.title{
+    text-align: center;
+}
+
+input{
+    margin: 0.1rem;
+}
+
+.Grade{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+.whichelementaryscholl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.whichelementaryschool{
+    display: flex;
+    flex-direction: row;
+}
+
+.whatpositions{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.uniformsize{
+    display: flex;
+    flex-direction: row;
+}
+
+
+div{
+    margin: 0.3rem 1rem;
+}
+
+label{
+    margin: 0;
+}
+
+#submit{
+    padding: 1rem;
+    background-color: darkgoldenrod;
+}
